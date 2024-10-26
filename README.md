@@ -1,1 +1,1 @@
-Welcome to CI-CD example with github actions and docker image.
+Welcome to CI-CD example with github actions and docker image!
